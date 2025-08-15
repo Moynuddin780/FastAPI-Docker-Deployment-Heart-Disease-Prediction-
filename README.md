@@ -133,7 +133,7 @@ The `Dockerfile` uses `python:3.10-slim`, installs dependencies, copies the app 
    - Connect your GitHub repository.
    - Set the build context to the root directory (where `Dockerfile` is).
    - Deploy and wait for the build to complete.
-   - Get your live URL (e.g., `https://your-app.onrender.com`).
+   - Get your live URL (Render App Link - 'https://fastapi-docker-deployment-for-heart.onrender.com/docs`).
 
 3. Test endpoints via Swagger UI (`/docs`) or tools like Postman.
 
